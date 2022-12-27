@@ -1,4 +1,4 @@
-# ISTA-321
+#ISTA321:
 
 The following items within the repository are my submissions to the assignments that were given out within the course. 
 
